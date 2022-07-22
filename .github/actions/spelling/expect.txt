@@ -221,6 +221,7 @@ COMSPLITTER
 Concat
 config
 configparser
+configs
 configurability
 cookiecutter
 cooldown
@@ -316,6 +317,7 @@ Deserial
 deserialization
 deserialize
 deserialized
+deserializes
 deserializing
 dest
 DEVNULL
@@ -479,6 +481,7 @@ fcheck
 fclose
 fcntl
 fd
+fds
 fdset
 featuredarticles
 FEEDNAME
@@ -499,6 +502,7 @@ filepath
 filesize
 FILESTUBS
 filesystem
+filesystems
 filetypes
 finalizer
 findall
@@ -659,6 +663,7 @@ Huynh
 HVisitor
 hxx
 hyperlink
+hyperlinks
 hypermail
 hz
 iadd
@@ -1068,6 +1073,7 @@ plantuml
 plugin
 pname
 png
+PNGs
 pollerr
 pollfd
 POLLIN
@@ -1140,7 +1146,9 @@ pylama
 pylint
 pymod
 pyparsing
+PYS
 pytest
+pytests
 PYTHONPATH
 pyw
 qch
@@ -1191,6 +1199,7 @@ refactoring
 refspec
 regex
 regexp
+regexs
 relaxng
 relpath
 REMOVEDIRECTORY
@@ -1527,6 +1536,7 @@ tokenlist
 toklist
 TOLOWER
 toolchain
+toolchains
 tooltip
 topologyapp
 Torvalds
@@ -1543,6 +1553,7 @@ trinomials
 TRUNC
 truncstring
 tt
+tts
 ttype
 Tuszynski
 TXD
@@ -1649,6 +1660,7 @@ Wformat
 wget
 whitebox
 whitelist
+Whitelisted
 wiki
 wikipedia
 wildcards
@@ -1684,6 +1696,7 @@ xlsx
 xml
 xmlfile
 xmlns
+xmls
 xoff
 xon
 xor
