@@ -66,3 +66,4 @@ Non-JPL Contributors to the F' Software Framework:
 * SterlingPeet
 * arijitdas123student
 * Soref, Josh
+* Thibault
